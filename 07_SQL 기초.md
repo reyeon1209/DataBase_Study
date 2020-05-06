@@ -62,5 +62,3 @@ UPDATE 방 SET 건물번호 = 4 WHERE 건물번호 = 1;
 ```
 
 ![image](https://user-images.githubusercontent.com/46713032/81186452-c3030e80-8fed-11ea-98d4-8883e9bfbaf9.png)
-
-```
