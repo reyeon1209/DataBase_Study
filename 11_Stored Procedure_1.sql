@@ -1,4 +1,3 @@
-use exec;
 delimiter //
 CREATE PROCEDURE caseProc(
    IN uName VARCHAR(10)
